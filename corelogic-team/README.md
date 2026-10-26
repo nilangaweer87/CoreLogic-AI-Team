@@ -4,9 +4,9 @@
 
 ## Start
 
-Open [BOOTSTRAP.md](BOOTSTRAP.md), attach it to the existing MausBot assistant/Chief, and ask: "Create the CoreLogic Studios team from this file, install the included skills where supported, and run the synthetic delegation test. Preserve the experimental team until the replacement is verified."
+First ensure ATLAS is an actual Chief of Staff in the CoreLogic Studios section. The default MausBot assistant cannot appoint one. Open [BOOTSTRAP.md](BOOTSTRAP.md), attach it to ATLAS, and ask: "Create the CoreLogic Studios team from this file, install the included skills where supported, and run the synthetic delegation test. Preserve the experimental team until the replacement is verified."
 
-This is a single-file instruction bundle for MausBot's supported team tools, not a native import-format claim. Skill installation and tool connections can require separate app review. No API key is included.
+The live application limits each proposal to eight bots, so the file is processed in sequential batches. This is a single-file instruction bundle for MausBot's supported team tools, not a native import-format claim. Skill installation and tool connections can require separate app review. No API key is included.
 
 ## Files
 

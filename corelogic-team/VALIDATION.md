@@ -20,3 +20,11 @@ Date: 26 October 2026.
 - Verify live catalog IDs, combined proposal application, skill activation and actual coordinate_bots results before retiring the old team.
 - Connected tools, model entitlements, Canva/video rendering, ERP/POS environments and production access are not provisioned by this bundle.
 - Public files contain generic workflows only; they do not provide legal/tax advice or embed statutory rates.
+
+## Live setup findings
+
+- DeepSeek V4.1 Flash was confirmed available in the live catalog.
+- A 14-operation proposal was rejected: the installed service permits at most eight bots per proposal, despite the advertised schema allowing 24. Bootstrap corrected to sequential batches.
+- The default MausBot assistant cannot appoint a Chief; the app returned 'Only the Chief of Staff changes who the Chief is; MausBot doesn\'t.' Creating a new Chief-led section was also rejected.
+- ATLAS was created in General with its full profile as a bootstrap step. It is not yet Chief. The remaining 13 specialists and skill activation are pending proper Chief setup; the original seven bots remain intact.
+- The requested live delegation smoke test has not run. Synthetic skill testing is not a substitute for it.

@@ -8,4 +8,4 @@
 - [23-service routing matrix](corelogic-team/service-routing.md)
 - [Organisation and workflows](corelogic-team/organisation.md)
 
-Prepared for MausBot with DeepSeek Harness. Native installation, skill activation and tool connections must be verified in the app; the bootstrap is an instruction bundle, not a native JSON importer.
+Prepared for MausBot with DeepSeek Harness. Live setup requires an actual Chief and uses batches of at most eight bots. Native installation, skill activation and tool connections must be verified in the app; the bootstrap is an instruction bundle, not a native JSON importer.
