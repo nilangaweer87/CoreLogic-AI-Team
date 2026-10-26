@@ -1,0 +1,4 @@
+interface:
+  display_name: "PIXEL - Brand & Graphic Designer"
+  short_description: "CoreLogic PIXEL specialist workflow guidance"
+  default_prompt: "Use $corelogic-pixel to complete this task and verify the deliverables."

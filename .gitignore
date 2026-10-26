@@ -1,0 +1,5 @@
+.build-tools/
+private/
+*.log
+.env
+.env.*

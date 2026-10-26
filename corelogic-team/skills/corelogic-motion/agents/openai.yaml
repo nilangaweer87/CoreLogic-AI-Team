@@ -1,0 +1,4 @@
+interface:
+  display_name: "MOTION - Video Production Specialist"
+  short_description: "CoreLogic MOTION specialist workflow guidance"
+  default_prompt: "Use $corelogic-motion to complete this task and verify the deliverables."

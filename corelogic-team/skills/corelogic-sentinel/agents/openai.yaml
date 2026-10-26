@@ -1,0 +1,4 @@
+interface:
+  display_name: "SENTINEL - Quality & Systems Review Specialist"
+  short_description: "CoreLogic SENTINEL specialist workflow guidance"
+  default_prompt: "Use $corelogic-sentinel to complete this task and verify the deliverables."

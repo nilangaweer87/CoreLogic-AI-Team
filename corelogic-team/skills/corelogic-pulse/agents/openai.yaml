@@ -1,0 +1,4 @@
+interface:
+  display_name: "PULSE - Payroll & Employment Administration Specialist"
+  short_description: "CoreLogic PULSE specialist workflow guidance"
+  default_prompt: "Use $corelogic-pulse to complete this task and verify the deliverables."

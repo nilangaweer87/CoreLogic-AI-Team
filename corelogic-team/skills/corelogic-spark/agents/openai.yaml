@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPARK - SEO & Growth Specialist"
+  short_description: "CoreLogic SPARK specialist workflow guidance"
+  default_prompt: "Use $corelogic-spark to complete this task and verify the deliverables."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ATLAS - Operations & Delegation Lead"
+  short_description: "CoreLogic ATLAS specialist workflow guidance"
+  default_prompt: "Use $corelogic-atlas to complete this task and verify the deliverables."

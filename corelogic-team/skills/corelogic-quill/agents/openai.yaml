@@ -1,0 +1,4 @@
+interface:
+  display_name: "QUILL - Business Communication Specialist"
+  short_description: "CoreLogic QUILL specialist workflow guidance"
+  default_prompt: "Use $corelogic-quill to complete this task and verify the deliverables."

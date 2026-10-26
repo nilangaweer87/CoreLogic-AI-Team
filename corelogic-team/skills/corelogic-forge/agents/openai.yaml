@@ -1,0 +1,4 @@
+interface:
+  display_name: "FORGE - Web & Application Developer"
+  short_description: "CoreLogic FORGE specialist workflow guidance"
+  default_prompt: "Use $corelogic-forge to complete this task and verify the deliverables."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SCRIBE - Transaction Processing Specialist"
+  short_description: "CoreLogic SCRIBE specialist workflow guidance"
+  default_prompt: "Use $corelogic-scribe to complete this task and verify the deliverables."

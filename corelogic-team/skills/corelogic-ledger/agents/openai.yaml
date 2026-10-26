@@ -1,0 +1,4 @@
+interface:
+  display_name: "LEDGER - Accounting & Excel Specialist"
+  short_description: "CoreLogic LEDGER specialist workflow guidance"
+  default_prompt: "Use $corelogic-ledger to complete this task and verify the deliverables."

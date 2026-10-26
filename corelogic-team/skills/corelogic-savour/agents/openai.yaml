@@ -1,0 +1,4 @@
+interface:
+  display_name: "SAVOUR - Hospitality Operations Specialist"
+  short_description: "CoreLogic SAVOUR specialist workflow guidance"
+  default_prompt: "Use $corelogic-savour to complete this task and verify the deliverables."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "FLOW - AI Automation Specialist"
+  short_description: "CoreLogic FLOW specialist workflow guidance"
+  default_prompt: "Use $corelogic-flow to complete this task and verify the deliverables."

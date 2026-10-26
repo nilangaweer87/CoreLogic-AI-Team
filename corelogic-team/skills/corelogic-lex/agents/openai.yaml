@@ -1,0 +1,4 @@
+interface:
+  display_name: "LEX - Legal Research & Contracts Specialist"
+  short_description: "CoreLogic LEX specialist workflow guidance"
+  default_prompt: "Use $corelogic-lex to complete this task and verify the deliverables."

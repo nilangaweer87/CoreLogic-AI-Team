@@ -1,0 +1,4 @@
+interface:
+  display_name: "NEXUS - ERP & Business Systems Specialist"
+  short_description: "CoreLogic NEXUS specialist workflow guidance"
+  default_prompt: "Use $corelogic-nexus to complete this task and verify the deliverables."
